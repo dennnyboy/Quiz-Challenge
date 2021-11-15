@@ -6,7 +6,7 @@ This project took advantage of a few different front end languages including...
 - CSS
 
 The theme that was chosen for this project was a black and red color combonation that was used throughout the whole application. 
-![](screenshot.png)
+![](/images/screenshot.png)
 
 
 
